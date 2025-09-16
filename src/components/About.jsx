@@ -25,6 +25,7 @@ export default function About(){
             <li>Future Interns - AI tasks</li>
             <li>InternPE - ML implementations</li>
           </ul>
+
           <h4 className="font-medium">Soft Skills</h4>
           <ul className="mt-2 text-gray-600">
             <li> • Analytical Problem-Solving and Strategic Thinking</li>
@@ -39,9 +40,11 @@ export default function About(){
           <p className="mt-2 text-gray-600">✓ 10th – 2011-12 to 2019-2020
             School Name: Air Force School Bidar
             CGPA - 8.7  
+
             ✓ 12th – 2019-20 to 2021-22 
             College Name: Shaheen Group of Institutions 
             CGPA – 7.0
+
             ✓ B.E – 2021-22 to 2025-26
             College Name: Guru Nanak Dev Engineering College Bidar 
             University Name: Visvesvaraya Technological University 
